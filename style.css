@@ -251,7 +251,7 @@
     .mct_shareit_button.linkedin {
       background: #0e76a8;
     }
-    .mct_margin_top{margin-top:70px;display:none;float: left;}
+    .mct_margin_top{margin-top:70px;display:none;float: inherit;}
     .mct_shareit_button_title .fb-like {
         left: 0px;
         top: -10px;
