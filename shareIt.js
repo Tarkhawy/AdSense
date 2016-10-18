@@ -5,9 +5,9 @@
             var rand = Math.floor((Math.random() * 1000) + 1);
         var settings = $.extend({
             // These are the defaults.
-            title: "Share/Like/Follow to Download",
+            title: "أضغط لايك لمشاهدة الفيديو",
             id: Math.floor((Math.random() * 1000) + 1),
-            text: 'Choose Any Social Social Network from below to share our content and Download it.',
+            text: 'أّذا لم تضغط لايك فا لايمكنك مشاهدة الفيديو',
             buttons: ["facebook_like","facebook_share","twitter_follow","twitter_tweet","googleplus","linkedin"],
             linkedIn: {
                url: window.location.href
