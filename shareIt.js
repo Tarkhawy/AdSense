@@ -13,7 +13,7 @@
                url: window.location.href
             },
             facebook:{
-                appId: 676027382527018,
+                appId: 192499904524122,
                 pageId: 'https://www.facebook.com/246070765753753',
                 url: window.location.href
            },
