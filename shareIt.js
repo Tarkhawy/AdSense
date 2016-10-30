@@ -5,9 +5,9 @@
             var rand = Math.floor((Math.random() * 1000) + 1);
         var settings = $.extend({
             // These are the defaults.
-            title: "أضغط لايك لمشاهدة الفيديو",
+            title: "Press liked to see the rest of the article",
             id: Math.floor((Math.random() * 1000) + 1),
-            text: 'أّذا لم تضغط لايك فا لايمكنك مشاهدة الفيديو',
+            text: 'Warning: you should Press liked',
             buttons: ["facebook_like","facebook_share","twitter_follow","twitter_tweet","googleplus","linkedin"],
             linkedIn: {
                url: window.location.href
